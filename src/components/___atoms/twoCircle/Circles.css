@@ -1,0 +1,22 @@
+.circles {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-right: 300px;
+  margin-bottom: 50px;
+}
+
+.big_circle {
+  width: 46.956520080566406px;
+  height: 47px;
+  border-radius: 100px;
+  background-color: white;
+}
+
+.small_circle {
+  width: 21.130434036254883px;
+  height: 21.149999618530273px;
+  opacity: 1;
+  border: 1px solid white;
+  border-radius: 100px;
+}

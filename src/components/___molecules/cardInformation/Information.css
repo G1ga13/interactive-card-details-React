@@ -1,0 +1,8 @@
+.information_container {
+  width: 381px;
+  height: 352px;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+}

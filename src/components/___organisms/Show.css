@@ -1,0 +1,13 @@
+.main_container {
+  border: 1px solid #ff0000;
+  display: flex;
+  justify-content: center;
+  gap: 127px;
+  align-items: center;
+}
+
+.background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}

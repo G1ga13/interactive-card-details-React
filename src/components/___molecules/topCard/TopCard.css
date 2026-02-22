@@ -1,0 +1,19 @@
+.top_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 447px;
+  height: 245px;
+  border-radius: 10px;
+  opacity: 1;
+  border: 1px solid red;
+  position: absolute;
+  left: 0px;
+  background: linear-gradient(163.95deg, #6348fe 4.74%, #610595 88.83%);
+}
+
+.top_sub_container {
+  display: flex;
+  gap: 195px;
+}

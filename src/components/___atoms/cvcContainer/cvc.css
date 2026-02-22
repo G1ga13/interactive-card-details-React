@@ -1,0 +1,23 @@
+.id_container {
+  display: flex;
+  width: 361px;
+  height: 38px;
+  border-radius: 4px;
+  opacity: 1;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: rgba(173, 181, 190, 1);
+}
+
+.cvc {
+  font-family: "Space Grotesk";
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: 2px;
+  text-align: right;
+  text-transform: uppercase;
+  color: white;
+  margin-right: 16px;
+}
