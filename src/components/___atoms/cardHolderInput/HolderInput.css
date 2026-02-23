@@ -1,0 +1,36 @@
+.holder_input {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.holder_input > p {
+  font-family: "Space Grotesk";
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: rgba(33, 9, 47, 1);
+}
+
+.holder_information {
+  width: 381px;
+  height: 45px;
+  top: 24px;
+  opacity: 1;
+  padding-left: 16px;
+  border-radius: 8px;
+  border: 1px solid rgba(223, 222, 224, 1);
+}
+
+.holder_information::placeholder {
+  font-family: "Space Grotesk";
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 18px;
+  color: rgba(33, 9, 47, 0.3);
+  line-height: 100%;
+  letter-spacing: 0px;
+}
