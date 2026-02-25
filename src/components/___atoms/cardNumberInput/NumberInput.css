@@ -34,3 +34,7 @@
   border-radius: 8px;
   border: 1px solid rgba(223, 222, 224, 1);
 }
+
+.number_information:focus {
+  outline: 1px solid rgba(99, 72, 254, 1);
+}

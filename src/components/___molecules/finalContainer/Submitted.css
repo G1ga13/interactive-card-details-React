@@ -1,0 +1,9 @@
+.final_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid red;
+  width: 381px;
+  height: 291px;
+}
